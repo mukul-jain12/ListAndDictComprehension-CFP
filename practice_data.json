@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Adam Carter",
+      "work": "Unilogic",
+      "email": "adam.carter@unilogic.com",
+      "dob": "1978",
+      "address": "83 Warner Street",
+      "city": "Boston"
+    },
+    {
+      "id": 1,
+      "name": "Mukul Jain",
+      "work": "SDE",
+      "email": "mukul@connic.org",
+      "dob": "1953",
+      "address": "Near Gurudwara",
+      "city": "Dungarpur"
+    },
+    {
+      "id": 3,
+      "name": "Dibyesh Mishra",
+      "work": "SDE",
+      "email": "dibyesh@connic.org",
+      "dob": "1950",
+      "address": "IK IDK",
+      "city": "Balia"
+    },
+    {
+      "id": 4,
+      "name": "Shivam",
+      "work": "SDE",
+      "email": "shivam@connic.org",
+      "dob": "1947",
+      "address": "IDK",
+      "city": "Pune"
+    }
+  ],
+  "images": [
+    "img0.png",
+    "img1.png",
+    "img2.png"
+  ],
+  "coordinates": {
+    "x": 35.12,
+    "y": -21.49
+  },
+  "price": "$59,395"
+}
